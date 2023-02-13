@@ -12,3 +12,5 @@ If you wonder what TWEEMPDUI stands for it stands for
 **U**se
 **I**t
 And the name is also the first thing nothing else was named xD
+
+DO NOT USE THIS IN THE CURRENT VERISON the game engine can load texture but not display them SO DON'T use this engine yet you can use it has insperation or develop it further, but DON'T make a game in it
